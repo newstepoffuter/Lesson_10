@@ -1,7 +1,6 @@
 import allure
-import by
 from allure_commons.types import Severity
-from selene import browser
+from selene import browser, by
 from selene.support.conditions import be
 
 
